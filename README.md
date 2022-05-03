@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ipravinpawar
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Pravin
+- 🌱 I’m currently working at SmartStream
+- 👀 I’m interested in Java
+
 
 <!---
 ipravinpawar/ipravinpawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
